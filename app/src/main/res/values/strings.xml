@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Food Provinsi</string>
+    <string name="name_food">Nama Makanan</string>
+    <string name="detail">Detail</string>
+    <string name="provinsi_food">Khas Provinsi</string>
+    <string name="jenis">Jenis Hidangan</string>
+    <string name="info">Info</string>
+    <string name="rating">Rating</string>
+    <string name="namadev">Mohammad Nowaf</string>
+    <string name="emaildev">muhammadnowaf2608@gmail.com</string>
+</resources>
